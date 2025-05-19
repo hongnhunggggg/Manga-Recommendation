@@ -49,14 +49,13 @@ Currently, two official plugins are available:
 1. Clone the repository:
 
    ```bash
-   git clone https://git.ajou.ac.kr/hongnhung/datamining_group3
-   cd DataMining_TeamProject3
+   git clone https://github.com/hongnhunggggg/Manga-Recommendation.git
    ```
 
 2. Set up the backend:
 
    ```bash
-   cd DataMining_TeamProject3
+   cd Manage Recommendation
    python app.py
    ```
 
@@ -71,7 +70,7 @@ Currently, two official plugins are available:
    SelectFrameWork: React
    Select a variant: JS
    ```bash
-   cd DataMining_TeamProject3
+   cd Manage Recommendation
    npm install
    npm run dev
    ````
